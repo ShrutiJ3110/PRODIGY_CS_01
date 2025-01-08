@@ -43,4 +43,17 @@ This program **encrypts** and **decrypts** text using the **Caesar Cipher algori
 2. Run the script in a Python environment:
    ```bash
    python caesar_cipher.py
+3.Follow the on-screen prompts to encrypt or decrypt messages.
+
+###**Requirements:**
+Python 3.x is required to run this program.
+
+###**Program Structure:**
+-caesar_cipher(): Performs the encryption or decryption logic.
+-get_input(): Collects user input for the message, shift value, and mode.
+-main(): The entry point of the program, allowing users to perform multiple operations.
+
+###**Contributions:**
+Feel free to fork this repository and suggest improvements! You can also open issues to report bugs or suggest new features.
+
 
