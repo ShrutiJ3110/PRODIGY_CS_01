@@ -55,11 +55,6 @@ main(): The entry point of the program, allowing users to perform multiple opera
 Contributions
 Feel free to fork this repository and suggest improvements! You can also open issues to report bugs or suggest new features.
 
-### Explanation:
-- The **"Running the Program"**, **"Requirements"**, **"Program Structure"**, and **"Contributions"** sections are formatted as headings using `##` for proper visibility.
-- Important terms like Python version, function names (`caesar_cipher()`, `get_input()`, `main()`) are **bolded**.
-- Code and commands are placed inside triple backticks to ensure they're displayed correctly in a formatted manner.
 
-This ensures that everything you mentioned is clearly visible and properly formatted in your **README.md** file.
 
 
