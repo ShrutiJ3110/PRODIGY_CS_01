@@ -47,5 +47,6 @@ def main():
             print("Thank you for using the Caesar Cipher Program! Goodbye!")
             break
 
-if _name_ == "_main_":
+# Correct the condition to check __name__ and __main__
+if __name__ == "__main__":
     main()
