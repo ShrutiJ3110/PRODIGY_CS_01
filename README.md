@@ -31,13 +31,9 @@ This program **encrypts** and **decrypts** text using the **Caesar Cipher algori
 - **`get_input()`:** Collects user input for the message, shift value, and mode.
 - **`main()`:** The entry point of the program, allowing users to perform multiple operations.
 
-## Contributions
-Feel free to fork this repository and suggest improvements!  
-You can also open issues to report bugs or suggest new features.
-
 ## Engage with Me
 
-Feel free to browse through the repository, provide your insights, or contact me for discussions on encryption algorithms, programming, or any other related subjects. I'm always enthusiastic about learning and advancing together with the community!
+Feel free to fork this repository, provide your insights, or contact me for discussions on encryption algorithms, programming, or any other related subjects.You can also open issues to report bugs or suggest new features. I'm always enthusiastic about learning and advancing together with the community!
 
 ## Let's Connect!
 
