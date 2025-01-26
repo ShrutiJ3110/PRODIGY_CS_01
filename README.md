@@ -44,8 +44,8 @@ Dive into the repository, share your thoughts, or reach out for discussions on p
 For questions, feedback, or collaboration opportunities, feel free to reach out.
 
 - **Email:** [shrutisjoshi3110@gmail.com](mailto:shrutisjoshi3110@gmail.com)  
-- LinkedIn: [Shruti Joshi](https://www.linkedin.com/in/shruti-joshi-572820297)
-
+- **LinkedIn**: [Shruti Joshi](https://www.linkedin.com/in/shruti-joshi-572820297)
+  
 Thank you for your interest in this project. Happy coding! 🚀
 
 
